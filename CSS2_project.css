@@ -1,0 +1,35 @@
+h1{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+
+}
+
+.art{
+  margin: auto;
+}
+
+td{
+  width: 100px;
+  height: 200px;
+  border: 4px solid white;
+}
+
+#one{
+  background: #E63946;
+}
+
+#two{
+  background: #F1FAEE;
+}
+
+#three{
+  background: #A8DADC;
+}
+
+#four{
+  background: #457B9D;
+}
+
+#five{
+  background: #1D3557;
+}
