@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+  background-color: #011627;
+  color: white;
+  border-left: 50px solid teal;
+  border-right: 50px solid teal;
+  border-bottom: 50px solid teal;
+  font-family: 'Lobster', cursive;
+}
+
+p{
+  padding-top: 4%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 2%;
+}
+
+#sub{
+  background-color: #FF9F1C;
+  font-size: 1em;
+  width: 150px;
+  height: 80px;
+  border-radius: 25px;
+  font-family: 'Lobster', cursive;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+form{
+  font-size: 1.4em;
+  margin-bottom: 10px;
+}
+input{
+  width: 250px;
+}
